@@ -22,5 +22,6 @@ class calc{
         System.out.println(Add(a,b));
         System.out.println(mul(a,b));
         System.out.println(div(a,b));
+        System.out.println("hello ");
     }
 }
